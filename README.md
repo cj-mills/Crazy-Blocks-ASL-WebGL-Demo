@@ -3,9 +3,6 @@
 
 ### Live Demo: [https://cj-mills.github.io/Crazy-Blocks-ASL-WebGL-Demo/](https://cj-mills.github.io/Crazy-Blocks-ASL-WebGL-Demo/)
 
-https://user-images.githubusercontent.com/9126128/174238091-2fcaf0ca-4bd3-4b12-b00e-d3bf2d42b64a.mp4
-
-
 <details><summary><h3>Input Reference</h3></summary><br/>
 
 | Input    | Image                                              |
@@ -13,4 +10,9 @@ https://user-images.githubusercontent.com/9126128/174238091-2fcaf0ca-4bd3-4b12-b
 | Move Up        | ![B429](./images/B429.jpg) |
 | Quit      | ![Stop_0](./images/Stop_0.jpg) |
 </details>
+
+https://user-images.githubusercontent.com/9126128/174238091-2fcaf0ca-4bd3-4b12-b00e-d3bf2d42b64a.mp4
+
+
+
 
