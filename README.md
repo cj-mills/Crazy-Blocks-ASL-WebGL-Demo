@@ -1,5 +1,5 @@
 # Crazy Blocks ASL WebGL Demo
- A simple demo game that uses ASL signs as user input. 
+ A simple demo game that uses ASL signs as user input. It builds on the project described in [Jason Weimann's Beginner Unity3D Tutorial](https://www.youtube.com/watch?v=8rdfcq-jePw).
 
 ### Live Demo: [https://cj-mills.github.io/Crazy-Blocks-ASL-WebGL-Demo/](https://cj-mills.github.io/Crazy-Blocks-ASL-WebGL-Demo/)
 <details><summary><h3>Input Reference</h3></summary><br/>
