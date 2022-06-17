@@ -1,11 +1,9 @@
 # Crazy-Blocks-ASL-WebGL-Demo
  A simple demo game that uses ASL signs as user input. 
 
-https://user-images.githubusercontent.com/9126128/174238091-2fcaf0ca-4bd3-4b12-b00e-d3bf2d42b64a.mp4
-
-
 ### Live Demo: [https://cj-mills.github.io/Crazy-Blocks-ASL-WebGL-Demo/](https://cj-mills.github.io/Crazy-Blocks-ASL-WebGL-Demo/)
 
+https://user-images.githubusercontent.com/9126128/174238091-2fcaf0ca-4bd3-4b12-b00e-d3bf2d42b64a.mp4
 
 
 <details><summary><h3>Input Reference</h3></summary><br/>
